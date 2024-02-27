@@ -51,7 +51,7 @@ export const name: string = getSiteConfig('name')
 export const author: string = getSiteConfig('author')
 export const domain: string = getSiteConfig('domain')
 export const description: string = getSiteConfig('description', 'Notion Blog')
-export const language: string = getSiteConfig('language', 'en')
+export const language: string = getSiteConfig('language', 'kr')
 
 // social accounts
 export const twitter: string | null = getSiteConfig('twitter', null)
@@ -110,7 +110,7 @@ export const navigationLinks: Array<NavigationLink | null> = getSiteConfig(
 )
 
 // Optional site search
-export const isSearchEnabled: boolean = getSiteConfig('isSearchEnabled', true)
+export const isSearchEnabled: boolean = getSiteConfig('isSearchEnabled', false)
 
 // ----------------------------------------------------------------------------
 
