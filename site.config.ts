@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Dong Hyuk Lee',
 
   // open graph metadata (optional)
-  description: 'Development information blog',
+  description: '백엔드 개발 블로그',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
@@ -54,7 +54,7 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'About',
+      title: '자기소개',
       pageId: '58c89e2a47d449e79f09a4b2f91941ba'
     }
   //   {
