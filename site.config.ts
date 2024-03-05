@@ -19,10 +19,10 @@ export default siteConfig({
   // social usernames (optional)
   //twitter: 'transitive_bs',
   github: 'hyuk-dev',
-  //linkedin: 'fisch2',
+  linkedin: '동혁-이-2aa9962b8',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
-  // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
+  youtube: 'channel/UCVBxUFJLgONNYL-P_xNSbcQ', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
