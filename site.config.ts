@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '이동혁 기술 블로그',
+  name: 'hyuk.dev',
   domain: 'hyuk.dev',
-  author: 'Dong Hyuk Lee',
+  author: '이동혁',
 
   // open graph metadata (optional)
   description: '백엔드 개발 블로그',
