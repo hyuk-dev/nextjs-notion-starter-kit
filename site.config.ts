@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '이동혁 개발 홈페이지',
-  domain: 'hyuk.dev',
+  name: '이동혁 포트폴리오',
+  domain: 'portfolio.hyuk.dev',
   author: '이동혁',
 
   // open graph metadata (optional)
-  description: '백엔드 개발 관련 홈페이지',
+  description: '백엔드 개발 포트폴리오 홈페이지입니다.',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
