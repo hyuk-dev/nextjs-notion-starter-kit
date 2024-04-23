@@ -14,7 +14,7 @@ export default siteConfig({
   author: '이동혁',
 
   // open graph metadata (optional)
-  description: '백엔드 개발 홈페이지입니다.',
+  description: '백엔드 개발자 이동혁의 홈페이지입니다.',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
@@ -50,8 +50,8 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
-  // navigationStyle: 'default'
-  navigationStyle: 'custom'
+   navigationStyle: 'default'
+  //navigationStyle: 'custom'
   //navigationLinks: [
   //  {
   //    title: '자기소개',
