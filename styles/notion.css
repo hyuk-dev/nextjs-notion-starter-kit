@@ -19,11 +19,11 @@
 .notion-page {
   padding-bottom: calc(max(5vh, 32px)) !important;
   line-height: 1.65;
+  text-align: center;
 }
 
 .index-page {
   --notion-max-width: 2000px;
-  text-align: center;
 }
 
 .notion-text {
