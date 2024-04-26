@@ -54,12 +54,8 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: 'Contact',
+      title: '연락하기',
       pageId: '4d16349ea27d48e8853ca9edcbe4fd4a'
     }
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
    ]
 })
