@@ -50,11 +50,11 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
-  //navigationStyle: 'default',
-  navigationStyle: 'custom',
+  navigationStyle: 'default',
+  //navigationStyle: 'custom',
   navigationLinks: [
     {
-      title: '연락하기',
+      title: 'Contact',
       pageId: '4d16349ea27d48e8853ca9edcbe4fd4a'
     }
   //   {
