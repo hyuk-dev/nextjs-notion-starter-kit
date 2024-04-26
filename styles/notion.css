@@ -23,6 +23,7 @@
 
 .index-page {
   --notion-max-width: 2000px;
+  text-align: center;
 }
 
 .notion-text {
